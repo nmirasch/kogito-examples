@@ -163,6 +163,7 @@
         <module>dmn-tracing-springboot</module>
         <module>flexible-process-quarkus</module>
         <module>flexible-process-springboot</module>
+        <module>kogito-publishing-example</module>
         <module>kogito-travel-agency</module>
         <module>onboarding-example</module>
         <module>pmml-quarkus-example</module>
